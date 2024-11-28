@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neerajsaxenaa
+- 👋 Hi, I’m @Neerajsaxena
 - 👀 I’m interested to learn updated technologies.
 - 🌱 I’m currently learning aws, docker ,Kubernetes and so on.
 - 💞️ I’m looking to collaborate on live projects
